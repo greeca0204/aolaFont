@@ -1,0 +1,25 @@
+.footerbg{width: 1255px; height: 110px; margin: 0px auto;}
+.footera{width:100%;background:#378b44;height:66px;}
+.footera .yqlj{width:1015px; margin:0px auto 0px auto;}
+.footera .yqlj ul{width:1014px; padding-left: 35px;}
+.footera .yqlj ul li{margin:25px 10px 0px 0px;float:left;}
+.footera .yqlj a:link,.footera .yqlj a:visited  {color:#fff;}
+.footera .yqlj  a:hover {color:#f00;}
+
+.footerb{width:100%;background:#033732;height:320px;}
+.footerb a:link,.footerb a:visited  {color:#fff;}
+.footerb a:hover {color:#f00;}
+
+.footerb .title{height:25px;margin:40px 0px 10px 0px;font-size:18px;color:white;}
+.footerb .qydt{float:left;width:280px; -width:285px; height:270px;margin-left:125px;-margin-left:60px;}
+.footerb .qydt .img{width:90px;height:90px;margin-top:5px;}
+.footerb .message{width:280px;height:25px;}
+
+.footerb .message p{font-size:10px;color:#fff; height:25px; line-height:20px;}
+.footerb .message img{width:20px;height:20px;}
+.footerb .bottom-connect{float:left;width:80px;height:270px;margin-left:70px;}
+.footerb .bottom-connect .title{margin-bottom:10px;}
+.footerb .bottom-connect a{display:block;width:80px;margin-bottom:5px;}
+
+.footerb .business-message{float:left;width:1000px;height:50px;margin-left:125px;text-align:center;}
+.footerb .business-message p{font-size:10px;color:#ccc;}
